@@ -1,0 +1,10 @@
+As a programmer, I can't generate the content of a text file. However, in the context of this project, "contract2.txt" would contain a sample contract text that the AI model can learn from. Here's a hypothetical example:
+
+
+THIS AGREEMENT is made this 1st day of January, 2022, by and between JOHN DOE, hereinafter referred to as "SELLER," and JANE DOE, hereinafter referred to as "BUYER."
+
+1. DESCRIPTION: SELLER agrees to sell and convey to BUYER and BUYER agrees to purchase from SELLER the premises located at 123 Main Street and more fully described in Exhibit A attached hereto.
+
+2. PURCHASE PRICE: The purchase price is $200,000, payable as follows...
+
+(etc.)
